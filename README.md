@@ -1,5 +1,5 @@
 # R-CulturalHeritage
-Liste de ressources R pour la sphère culturelle
+Liste de libraires R pour récupérer/manipuler des données culturelles.
 
 R client to the Internet Archive API
   http://goo.gl/dIcVDS
